@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PracticeActivity!</string>
+    <string name="app_name">Web Practice</string>
+    <string name="onAccuracyChanged">onAccuracyChanged未触发</string>
+    <string name="AT">0</string>
+     <string name="AT2">zero</string>
+    <string name="Button_Write">Write</string>
+    <string name="Button_Stop">Stop</string>
+    <string name="Button_Show">Show</string>
+    <string name="server_address">地址</string>
+    <string name="default_server_address">192.168.137.1</string>
+    <string name="server_port">端口</string>
+    <string name="default_server_port">12345</string>
+    <string name="Button_Connect">Conn</string>
+
+</resources>
